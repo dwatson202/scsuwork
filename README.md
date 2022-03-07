@@ -63,3 +63,16 @@ This was an interesting class. It had a lot of different topics. Computer histor
 - See lab 8, 9, 10, 11, ASM programming in x32.
 - Lab 12 is an intro to bash scripting.
 - Wrote a term paper on Linux and its different parts. (File is not found at this time)
+
+
+CNA 465
+
+This class focused on wireless communication.
+
+Projects include:
+
+- Created a radio antenna and attempted to communicate with Ham radio sats.
+- Follwed CISCO Campus Lan and Wireless Design Guide to create a plan network design for a hypothetical hospital.
+- Attempted to frag attack on my old wifi raouter to break the encryption.
+- Wrote a paper on a wireless Sybil Attacks (51% attacks) [project 6]
+
