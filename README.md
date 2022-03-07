@@ -15,6 +15,7 @@ Crypto Class CNA 438
 - AND FINALLY: DON'T USE THESE IN PLACE OF REAL ENCRYPTION LIBRARIES. THIS CODE IS NOT FULLY TESTED AND MEANT AS A TOY. IT MOST SURELY HAS BUGS THAT IMPACT ENCRYPTION. MANY OF THESE METHODS USED ARE NOT SECURE AND ARE OUTDATED.
 
 Dear Students of CNA 438:
+
 If you are trying to complete a programming assignment for this class, I highly recommend you head to the library basement at SCSU. Its very clear from reading these books that she professors at SCSU used these books to construct the class work. I found many books that looked like the course work 1 for 1. So it is worth your time to get to know a few shelves in the basement of the library. (I think Row S, T, R where some of the best rows.)
 
 A great book is the Handbook of Applied Cryptography Book by Alfred Menezes, Paul van Oorschot, and Scott Vanstone
