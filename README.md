@@ -16,7 +16,7 @@ Crypto Class CNA 438
 
 Dear Students of CNA 438:
 
-If you are trying to complete a programming assignment for this class, I highly recommend you head to the library basement at SCSU. Its very clear from reading these books that she professors at SCSU used these books to construct the class work. I found many books that looked like the course work 1 for 1. So it is worth your time to get to know a few shelves in the basement of the library. (I think Row S, T, R where some of the best rows.)
+If you are trying to complete a programming assignment for this class, I highly recommend you head to the library basement at SCSU. Its very clear from reading these books that the professors at SCSU used these books to construct the class work. I found many books that looked like the course work 1 for 1. So it is worth your time to get to know a few shelves in the basement of the library. (I think Row S, T, R where some of the best rows.) Ask the librarian for help.
 
 A great book is the Handbook of Applied Cryptography Book by Alfred Menezes, Paul van Oorschot, and Scott Vanstone
 
