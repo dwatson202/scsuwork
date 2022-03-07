@@ -35,5 +35,13 @@ CNA 431-432 OSI Model and other subjects
 
 When I took this class we had some side project of Risk Assement that had to be completed on short notice. The focused on evaulating risk. We were given a senario and had to compute the EF, SLE, ARO, and ALE for a set of servers.
 
+CSCI 220
+
+In this class we learned how computers work by bolooning math and impliemented that into real wires and descrete ICs. This class is known for having frustrating lab that doesn't work. I can't share my work from this class because this class is still running in the same form and hasn't change much over the years. To share my work would only allow students to cheat of my work. We made decrete adders and a 7 segment driver as projects. The class focused mostly on boolan logic and its applications in computer sci.
+
+What I learned is key (take note future students):
+
+Use a software program to simplify your logic. Use another program to draw your layout on your breadboard. I found a program (name excapes me at this point) that allows for a perfect 1 to 1 printout of the breadboard curcit. This allows you to play LiteBright with your breadboard. You know it will work when you have all the parts connected. Buy your own jumper wires with male pins to make this possible. The community lab provided pins and chips are going to fail on you. If you have another 100$ spend it on your own set of ICs and jumper wires. This will save you a lot of time and get you and your co-lab partern out of hte lab in 20 mins. The lab room isn't very comfy and is very stuffy with 30 students in a small room.
+
 
 
