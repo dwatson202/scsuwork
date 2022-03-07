@@ -14,10 +14,18 @@ Crypto Class CNA 438
 - Some Assignments do not have zip files, the assignemnt was stil sent, however, with a file from the folder. The files might exist on my flash drive I used as my main storage from college. (Please to ask me to upload them)
 - AND FINALLY: DON'T USE THESE IN PLACE OF REAL ENCRYPTION LIBRARIES. THIS CODE IS NOT FULLY TESTED AND MEANT AS A TOY. IT MOST SURELY HAS BUGS THAT IMPACT ENCRYPTION. MANY OF THESE METHODS USED ARE NOT SECURE AND ARE OUTDATED.
 
-Student Info on CNA 438:
 Dear Students of CNA 438:
-If you are trying to complete a programming assignment for this class, I highly recommend you head to the library basement at SCSU and find a few books on the topic. A great book is the Handbook of Applied Cryptography Book by Alfred Menezes, Paul van Oorschot, and Scott Vanstone
-This huge book has everything you could want for this class. It even has sudocode which can be used to implement your programming into your favorate language.
-My second recommendation is a book by CRC Press entitled Algorithmic Cryptanalysis by Antoine Joux. This is a must read for this class. It has all the good stuff explaned in a way you can understand. I highly recommend this book if you want to learn how to implement popular cryptos.
-If you are still confused as a student I would recommend looking at books in the subject of linear algebra. It is used hevaly in this subject. If you haven't already taken this class it should be done before you sign up for this 400 level course. It makes understanding the basics of matrix work much easier.
+If you are trying to complete a programming assignment for this class, I highly recommend you head to the library basement at SCSU. Its very clear from reading these books that she professors at SCSU used these books to construct the class work. I found many books that looked like the course work 1 for 1. So it is worth your time to get to know a few shelves in the basement of the library. (I think Row S, T, R where some of the best rows.)
 
+A great book is the Handbook of Applied Cryptography Book by Alfred Menezes, Paul van Oorschot, and Scott Vanstone
+
+This huge book has everything you could want for this class. It even has sudo code which can be used to implement your programming into your favorate language.
+
+My second recommendation is a book by CRC Press entitled Algorithmic Cryptanalysis by Antoine Joux.
+
+This is a must read for this class. It has all the good stuff explaned in a way you can understand. I highly recommend this book if you want to learn how to implement popular cryptos.
+
+If you are still confused as a student I would recommend looking at books in the subject of linear algebra.
+It is used hevaly in this subject. If you haven't already taken this class it should be done before you sign up for this 400 level course. It makes understanding the basics of matrix work much easier.
+
+You could also review the topic of Descrete Math more. The CRT and co-prime (AKA relative prime numbers) is a major topic in asymmetrical encryption.
