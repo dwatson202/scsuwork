@@ -1,8 +1,9 @@
 # scsuwork
-A listing of my projects created while enrolled at SCSU Information Security Program
+A listing of some of my class projects created while enrolled at SCSU Information Security Program
 
 I held off for several years posting my class work on my public github for concern of students cheating off me. I believe many of the professors for some of the harder classes (crypto for example) have retired or are no longer teaching at SCSU MN. I believe its safe to upload my projects from my class. I expect any good student with ok googlefu to find this document.
 
+Many of these projects/assignments had a short completion window. It was also over 3 years ago, so I might not have all the files. Keep that in mind when viewing the profolio. My goal isn't to impress you with a high impact visual spectacle, but to demo that I put in the effort in my classes to create something and follow the professors' expectations. We did many projects and assignments as groups at SCSU its hard to keep track of them all. I have left off many of them because I don't have enough files or other infomration to show you dear reader. I am also keeping out most of the Opnet projects as these files are very dull to read unless you know what the class content was about. Most classes also had significant amount of leture in them that isn't captereued by my files I created in classs.
 
 --- STUDENTS ARE NOT ALLLOWED TO USE MY WORK IN A CLASS. ---
 If you are professor of a class at SCSU MN please note that if you find work that looks a lot like mine its a good idea to confront the student.
