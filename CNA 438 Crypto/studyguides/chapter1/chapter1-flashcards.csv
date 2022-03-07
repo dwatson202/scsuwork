@@ -1,0 +1,20 @@
+ACCESS CONTROL,Access control is the ability to limit and control to host systems and applications via communication links.
+ACTIVE ATTACK,Modification or falsification of steams of data.
+authentication,Assuring that the communication entity is the one that it claims to be
+authenticity,The property of being genuine and able to be verified and trusted
+availability,Ensuring timely and reliable access to the us of resources
+data confidentiality,Assures that private or confidential information is not made available or disclosed to unauthorized individuals
+data integrity,Assures that information and programs are changed only in a specified and authorized manner
+denial of service,Prevents or inhabits the normal use or management of communication facilities.
+encryption,The process of converting Plain Text to Cipher Text
+integrity,"Guarding against improper information modification or destruction, ensuring information non-repudiation and authenticity"
+intruder,A entity who has gained unauthorized/exceeding authorization into a system.
+masquerading,One Entity pretends to be another.
+non-repudiation,Preventing one from denying a transmitted message or action.
+OSI security architecture,"X.800 provides framework for security, including terms: Security attack, security mechanism, security service"
+passive attack,Eavesdropping on a telecommunications system and recording
+replay,Passive capture of data for transmission to produce an unauthorized effect.
+security attacks,any action that compromises the security of information owned by an organization\
+security mechanisms,"a process or device that is designed to detect, prevent, or recover from a security attack. (controls)"
+security services,A processing or communication service that enhances the security of the data processing system and the information transfers of an organization.
+traffic analysis,"A passive attack that uses meta information about destinations, sources, and other stream info to gain information about the target even when traffic is encrypted."

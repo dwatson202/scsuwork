@@ -1,0 +1,6 @@
+#Dustin Watson
+#CNA 436
+#DF KEP
+
+#Funiction that calcuates PHI
+def phi(n):

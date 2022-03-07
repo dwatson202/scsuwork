@@ -1,0 +1,18 @@
+def phi(n):
+    #gives a truple of number of primes and the primes of the group ord n
+    if fermatstest(n):
+        ##if its a prime, return n-1, thats the number of digits releitivty prime to n
+        return n-1, [x for x in range(1, n)]
+    else:
+        factors = []
+        count = 0
+        for i in range(n):
+            xgcdvalue = xgcd(n, i)
+            if xgcdvalue[0] == 1:
+                count += 1
+                factors.append(i)
+        return count, factors
+        
+def EulersTheorem(m,n):
+    pass
+
