@@ -37,7 +37,7 @@ When I took this class we had some side project of Risk Assement that had to be 
 
 CSCI 220
 
-In this class we learned how computers work by bolooning math and impliemented that into real wires and descrete ICs. This class is known for having frustrating lab that doesn't work. I can't share my work from this class because this class is still running in the same form and hasn't change much over the years. To share my work would only allow students to cheat of my work. We made decrete adders and a 7 segment driver as projects. The class focused mostly on boolan logic and its applications in computer sci.
+In this class we learned how computers work by boolean math and impliemented that into real wires and descrete ICs. This class is known for having frustrating lab that doesn't work. I can't share my work from this class because this class is still running in the same form and hasn't change much over the years. To share my work would only allow students to cheat of my work. We made decrete adders and a 7 segment driver as projects. The class focused mostly on boolan logic and its applications in computer sci.
 
 What I learned is key (take note future students):
 
