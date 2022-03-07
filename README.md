@@ -76,3 +76,20 @@ Projects include:
 - Attempted to frag attack on my old wifi raouter to break the encryption.
 - Wrote a paper on a wireless Sybil Attacks (51% attacks) [project 6]
 
+CNA 436
+
+This class was focused on web dev. I do not have the files from this class for my major project. I quickly removed them from the schools server after delivering the project (for reasons I will explain later). The professor of this class had projects along side the other assigned work that included work with SQL databases. The first one was Access databases. We had to create a database from scrach that could work as a hospital building system. Later, we took the same model and had to create a database that would work with a website. Most of the day to day assignemtns and tests were focused on front end web dev activities. The backend work was the side project.
+
+Front-end projects included:
+- CSS and HTML
+- Following best practices for accessibility
+- Troubleshooting issues with front-end development.
+
+I did complete and deploy a simple billing system with a working backend that could generate simple billing reports. This back end took me about 2 weekends to create while taking a full load of classes and doing the projects from all of them at the same time. The backend was a wrote in a LAMP stack. Since this project was a rush as students tend to be, I posted it for the teacher and quickly removed it. It had many issues around webpage security that I didn't have time to work out before the due date. I didn't want to put the college's webserver it was running at risk of an attack. The overall topic of this class was design of websites and administrating databases. I didn't need to explain why my code was used to take over a server. Even if there existed controls I didn't know about that would have blocked issues I didn't want to find out the hard way. I don't believe I have this code at this time for this repo.
+
+Takeways from backend database project:
+- Takes more time than one might expect to create a solid database backend.
+- Security has to be part of the design upfront (this is why I took it down as soon as it was graded; security creating a backend wasn't a requirement for this project)
+- Learned how to administrate MySQL database from the command line
+- Created complex joins to match data from more than one table to other tables to get the information out of the database as requsted by the reports.
+- Sourced my own dummy information to test the database.
