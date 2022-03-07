@@ -1,7 +1,8 @@
 # scsuwork
 A listing of my projects created while enrolled at SCSU Information Security Program
 
-I held off for several years posting my class work on my public github for concern of students cheating off me. I believe many of the professors for some of the harder classes (crypto for example) have retired or are no longer teaching at SCSU MN. I believe its safe to upload my projects from my class.
+I held off for several years posting my class work on my public github for concern of students cheating off me. I believe many of the professors for some of the harder classes (crypto for example) have retired or are no longer teaching at SCSU MN. I believe its safe to upload my projects from my class. I expect any good student with ok googlefu to find this document.
+
 
 --- STUDENTS ARE NOT ALLLOWED TO USE MY WORK IN A CLASS. ---
 If you are professor of a class at SCSU MN please note that if you find work that looks a lot like mine its a good idea to confront the student.
@@ -48,4 +49,11 @@ CNA 425
 
 - A several labs with software from Riverbed Opnet.
 - A Group project to Evaulate how XSS atacks work (Using SEED LAB)
+
+CNA 426
+
+Covered networking algos and other related topics. I learned how to compute checksums and how the IP protocol works. We did routing of packets by hand on paper to understand how  switches work.
+
+- Group Project was on how Dijkstra's algo works. What I have from that project are listed in this repo (not complete)
+
 
