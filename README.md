@@ -30,3 +30,10 @@ If you are still confused as a student I would recommend looking at books in the
 It is used hevaly in this subject. If you haven't already taken this class it should be done before you sign up for this 400 level course. It makes understanding the basics of matrix work much easier.
 
 You could also review the topic of Descrete Math more. The CRT and co-prime (AKA relative prime numbers) is a major topic in asymmetrical encryption.
+
+CNA 431-432 OSI Model and other subjects
+
+When I took this class we had some side project of Risk Assement that had to be completed on short notice. The focused on evaulating risk. We were given a senario and had to compute the EF, SLE, ARO, and ALE for a set of servers.
+
+
+
