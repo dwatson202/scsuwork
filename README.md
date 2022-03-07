@@ -56,4 +56,9 @@ Covered networking algos and other related topics. I learned how to compute chec
 
 - Group Project was on how Dijkstra's algo works. What I have from that project are listed in this repo (not complete)
 
+CNA 397
 
+This was an interesting class. It had a lot of different topics. Computer history, command line scripts, programming in ASM, and more. My most notiable acheivement from this class was having a ASM program compile and work correctly on the first try. I thought I made a mistake. It doesn't happen like that.
+
+- See lab 10, 11, and 12 for ASM programming in x32.
+- Wrote a term paper on Linux and its different parts. (File is not found at this time)
