@@ -1,0 +1,7 @@
+bash-4.1$ cat intro
+!/bin/bash
+clear
+date "+Today is %D %M %Y, a %A."
+date "+The current time is %r"
+echo I really like Linux!
+bash-4.1$
