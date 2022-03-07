@@ -93,3 +93,10 @@ Takeways from backend database project:
 - Learned how to administrate MySQL database from the command line
 - Created complex joins to match data from more than one table to other tables to get the information out of the database as requsted by the reports.
 - Sourced my own dummy information to test the database.
+
+
+CNA 473 - Final Project
+
+For my final project of this class I anwswered a question left by two master students lexander Orosz Edward and Hunter Young of Kennesaw State University in “Ultrasonic Data Transmission and Steganography" "On the complete opposite end of the spectrum exists the concept of infrasound, or sounds so low that humans are unable to hear them. These sounds are essentially nothing but vibrations that can be felt rather than heard, and they exist below 20 Hz. Since low frequencies propagate so well through solid objects, special bass transducers could potentially be used to exfiltrate data from a building using the same modulation techniques applied in this project to ultrasonic signals.” (Young)"
+
+I investigated this question using a subwoofer and a microphone. A short class presentation was given about the findings.
