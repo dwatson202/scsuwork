@@ -44,4 +44,8 @@ What I learned is key (take note future students):
 Use a software program to simplify your logic. Use another program to draw your layout on your breadboard. I found a program (name excapes me at this point) that allows for a perfect 1 to 1 printout of the breadboard curcit. This allows you to play LiteBright with your breadboard. You know it will work when you have all the parts connected. Buy your own jumper wires with male pins to make this possible. The community lab provided pins and chips are going to fail on you. If you have another 100$ spend it on your own set of ICs and jumper wires. This will save you a lot of time and get you and your co-lab partern out of hte lab in 20 mins. The lab room isn't very comfy and is very stuffy with 30 students in a small room.
 
 
+CNA 425
+
+- A several labs with software from Riverbed Opnet.
+- A Group project to Evaulate how XSS atacks work (Using SEED LAB)
 
