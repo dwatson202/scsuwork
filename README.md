@@ -60,5 +60,6 @@ CNA 397
 
 This was an interesting class. It had a lot of different topics. Computer history, command line scripts, programming in ASM, and more. My most notiable acheivement from this class was having a ASM program compile and work correctly on the first try. I thought I made a mistake. It doesn't happen like that.
 
-- See lab 10, 11, and 12 for ASM programming in x32.
+- See lab 8, 9, 10, 11, ASM programming in x32.
+- Lab 12 is an intro to bash scripting.
 - Wrote a term paper on Linux and its different parts. (File is not found at this time)
